@@ -1,16 +1,20 @@
 # <span style="color:blue">rsschool-cv</span>
-*******
-Denis Davydov
-*******
+
+***
+# Denis Davydov
+
+***
 ### Contacts:
 * Location: Moscow, Russia
 * Phone, whatsapp: +79771917127
 * Telegram: @camp207
 * E-mail: d.davydov911@gmail.com
-*******
+
+***
 ### About Myself:
-  I am a junior Java developer. The goal is to become a full-stack developer.
-*******
+I am a junior Java developer. The goal is to become a full-stack developer.
+
+***
 ### Skills:
 * Java
 * JUnit
@@ -21,8 +25,9 @@ Denis Davydov
 * Maven
 * HTML
 * CSS
-* JavaScript (basic).
-*******
+* JavaScript (basic)
+
+***
 ### Code example:
 ```
 public class SorterFlights {
@@ -34,14 +39,17 @@ public class SorterFlights {
     }
 }
 ```
-*******
+
+***
 ### Experience:
 * Junior Java developer at SDI soft since March 2023
-*******
+
+***
 ### Courses:
 * job4j
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-*******
+
+***
 ### Languages:
 * Russian - Native
 * English - Intermediate
