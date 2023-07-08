@@ -1,6 +1,6 @@
 # <span style="color:blue">rsschool-cv</span>
 *******
-Denis Davydov
+# Denis Davydov
 *******
 ### Contacts:
 * Location: Moscow, Russia
