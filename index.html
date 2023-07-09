@@ -4,8 +4,87 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Davydov's CV</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+    <div class="container">
+        <header>
+            <figure>
+                <img src="photo.png" alt="Davydov's photo">
+            </figure>
+            <h1>Denis Davydov</h1>
+            <h3>Java fullstack developer</h3>
+        </header>
+        <section>
+                <h3>Contacts:</h3>
+                <ul>
+                    <li>Location: Moscow, Russia</li>
+                    <li>Phone, Whatsapp: +79771917127</li>
+                    <li>Telegram: @camp207</li>
+                    <li>E-mail: d.davydov911@gmail.com</li>
+                </ul>
+        </section>
+        <section>
+            <h3>About Myself:</h3>
+            <p>I am a junior Java developer. The goal is to become a full-stack developer.</p>
+        </section>
+        <section>
+            <h3>Skills:</h3>
+            <ul>
+                <li>Java</li>
+                <li>JUnit</li>
+                <li>PostgreSQL</li>
+                <li>JDBC</li>
+                <li>Hibernate</li>
+                <li>Spring Framework (Spring MVC, Spring Data, Spring Security, Spring Boot)</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript (basic)</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Code example:</h3>
+            <pre>
+                <code>
+    public class SorterFlights {
+        public List<Flight> getFlightsAccordingRulesByStream(List<Flight> flights, List<Rule> rules) {
+            return flights.stream()
+                .filter(flight -> rules.parallelStream()
+                    .allMatch(rule -> rule.test(flight)))
+                .collect(Collectors.toList());
+        }
+    }
+                </code>
+            </pre>
+        </section>
+        <section>
+            <h3>Experience:</h3>
+            <ul>
+                <li>Junior Java developer at SDI soft since March 2023</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Courses:</h3>
+            <ul>
+                <li>job4j</li>
+                <li>RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Languages:</h3>
+            <ul>
+                <li>Russian - Native</li>
+                <li>English - Intermediate B1</li>
+            </ul>
+        </section>
+        <footer>
+            <a href="https://github.com/DDavydov911">GitHub</a>
+            <span>2023</span>
+            <a href="https://rollingscopes.com/">
+                <img src="logo_rs_text.svg" height="25" width="25">
+            </a>
+        </footer>
+    </container>
 </body>
 </html>

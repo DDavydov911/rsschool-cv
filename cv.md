@@ -6,7 +6,7 @@
 ***
 ### Contacts:
 * Location: Moscow, Russia
-* Phone, whatsapp: +79771917127
+* Phone, Whatsapp: +79771917127
 * Telegram: @camp207
 * E-mail: d.davydov911@gmail.com
 
@@ -52,4 +52,4 @@ public class SorterFlights {
 ***
 ### Languages:
 * Russian - Native
-* English - Intermediate
+* English - Intermediate B1
