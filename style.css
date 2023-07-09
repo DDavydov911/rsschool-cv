@@ -1,8 +1,107 @@
-html{}
-body{}
-    
-    
-    
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size:16px;
+    line-height:1.5em;
+    background: #3d3e42;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 100px;
+    background: #d3c7af;
+    display: grid;
+    box-shadow: 0 35px 55px rgb(160, 100, 175);
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    border-radius:50%;
+    width:35%;
+}
+
+section {
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-right: 30px;
+}
+
+section ul {
+   padding-left: 20px;
+}
+
+section pre code {
+    text-align: left;
+    padding-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+}
+
+pre {
+    background-color: darkgray;
+}
+
+code {
+    font-family: Courier New, monospace;
+}
+
+footer {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size:2.5em;
+    text-align:center;
+    font-family: 'Varela Round', sans-serif;
+    color:#4a4e51;
+    text-transform:uppercase;
+    line-height:1em;
+    padding-top:40px; 
+}
+
+h3 {
+    font-size:1.5em;
+    text-align: left;
+    font-family: 'Varela Round', sans-serif;
+    color:#4a4e51;
+    text-transform:uppercase;
+    line-height:1em;
+    padding-top:40px; 
+}
+
+header h3 {
+    text-align: center;
+    padding-top: 0;
+}
+
+footer {
+    margin: 20px;
+}
+
+a {
+    padding: 5px;
+}
+
     
     
     
