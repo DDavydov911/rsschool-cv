@@ -1,2 +1,3 @@
 # rsschool-cv
-[CV](https://github.com/DDavydov911/rsschool-cv/blob/gh-pages/cv.md#i-am-a-junior-java-developer-the-goal-is-to-become-a-full-stack-developer "cv by Denis Davydov")
+[Denis Davydov's CV](https://ddavydov911.github.io/rsschool-cv/cv "Denis Davydov's CV")
+[Denis Davydov's CV](https://ddavydov911.github.io/rsschool-cv/ "Denis Davydov's CV")
